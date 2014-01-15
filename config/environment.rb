@@ -2,4 +2,4 @@
 require File.expand_path('../application', __FILE__)
 
 # Initialize the Rails application.
-RoutRedirectBug::Application.initialize!
+RouteRedirectBug::Application.initialize!
